@@ -1,0 +1,60 @@
+body {
+	padding-top: 100px;
+	padding-bottom: 40px;
+	background: -webkit-linear-gradient(top, white, #D3D8E8);
+}
+
+.navbar {
+	height: 82px;
+}
+
+.form_register {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.line_me {
+	padding-top: 0px;
+}
+
+.navbar-inverse {
+	padding-top: 0px;
+	background-image: linear-gradient(to bottom, #3b5998 0, #3b5998 100%);
+	background-color: #3b5998;
+}
+
+.fb_logo {
+	margin-top: 17px;
+}
+
+i.img {
+	-ms-high-contrast-adjust: none;
+	_overflow: hidden;
+}
+
+.sx_f72f28 {
+	width: 170px;
+	height: 36px;
+	background-position: 0 -481px;
+}
+
+.sp_2xp1ac {
+	background-image: url(../img/BE57I-Gef_l.png);
+	background-size: auto;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.navbar-form.navbar-right:last-child {
+	margin-top: 15px;
+	color: #E8E8E8;
+}
+
+.navbar-form .checkbox label {
+	margin-right: 75px;
+}
+
+.navbar-form .checkbox a {
+	color: #E8E8E8;
+}

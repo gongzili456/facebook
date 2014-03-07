@@ -1,0 +1,52 @@
+/*导航栏的样式  开始*/
+body {
+	padding-top: 70px;
+}
+
+.navbar-inverse {
+	padding-top: 0px;
+	background-image: linear-gradient(to bottom, #3b5998 0, #3b5998 100%);
+	background-color: #3b5998;
+}
+
+.fb_logo {
+	margin-top: -5px;
+}
+
+i.img {
+	-ms-high-contrast-adjust: none;
+	_overflow: hidden;
+}
+
+.sx_f72f28 {
+	width: 170px;
+	height: 36px;
+	background-position: 0 -481px;
+}
+
+.sp_2xp1ac {
+	background-image: url(../img/BE57I-Gef_l.png);
+	background-size: auto;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.navbar-form.navbar-right:last-child {
+	margin-top: 15px;
+	color: #E8E8E8;
+}
+
+.navbar-form .checkbox label {
+	margin-right: 75px;
+}
+
+.navbar-form .checkbox a {
+	color: #E8E8E8;
+}
+
+i.glyphicon {
+	display: inline-block;
+	width: 1.25em;
+	text-align: center;
+}
+/*导航栏的样式  end*/
